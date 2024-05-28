@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-KR"
 title                    : "hjp8888"
 title_separator          : "-"
-subtitle                 : "hjp"
+subtitle                 : 
 name                     : "Park Hyeongjun"
 description              : "I'm a person who does anything."
 url                      : "https://hjp8888.github.io"
