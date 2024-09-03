@@ -11,10 +11,10 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
-  <a href="https://hjp8888.tistory.com/">
-  <img src="tisroty.webp" alt="hjp8888 homepage" />
-  </a>
     <div class="initial-content">
+       <a href="https://hjp8888.tistory.com/">
+       <img src="tisroty.webp" alt="hjp8888 homepage" width="111px" height="35px"/>
+       </a>
       {{ content }}
       {% include after-content.html %}
     </div>
