@@ -309,6 +309,16 @@ compress_html:
     envs: development
 
 
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+
+
 # Defaults
 defaults:
   # _posts
