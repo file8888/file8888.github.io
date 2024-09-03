@@ -20,7 +20,7 @@ title                    : "hjp8888"
 title_separator          : "-"
 subtitle                 : 
 name                     : "Park Hyeongjun"
-description              : ""
+description              : "" #사용자 설명
 url                      : "https://hjp8888.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,9 +114,9 @@ analytics:
 author:
   name             : "Park Hyeongjun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a person who does anything."
+  bio              : "" #사용자 설명
   location         : "Busan"
-  email            :
+  email            : "jspw8888@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
