@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      "https://hjp8888.tistory.com/"
+      url: "https://hjp8888.tistory.com/"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
