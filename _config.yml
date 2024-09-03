@@ -116,7 +116,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "jspw8888@gmail.com" #사용자 설명
   location         : "Busan"
-  email            : ""
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
