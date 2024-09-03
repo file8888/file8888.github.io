@@ -116,6 +116,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "jspw8888@gmail.com" #사용자 설명
   location         : "Busan"
+  instagram        : "https://hjp8888.tistory.com/"
   email            : 
   links:
     - label: "Email"
@@ -134,6 +135,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
+      "https://hjp8888.tistory.com/"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
