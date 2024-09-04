@@ -13,7 +13,7 @@
     {% endif %}
 
     {% unless site.atom_feed.hide %}
-      <li><img src="tistory_icon.png" alt="T" /><a href="https://hjp8888.tistory.com/"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ default: "tistory" }}</a></li>
+      <li><a href="https://hjp8888.tistory.com/"><i class="fas fa-fw fa-rss-square" aria-hidden="false"></i> {{ site.data.ui-text[site.locale].feed_label | default: "tistory" }}</a></li>
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
   </ul>
