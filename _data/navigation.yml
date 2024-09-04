@@ -6,8 +6,6 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
-  - title: "Portfolio"
-    url: "/about/"
   - title: "tistory"
     url: https://hjp8888.tistory.com/
   # - title: "About"
