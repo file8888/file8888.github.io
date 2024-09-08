@@ -8,6 +8,8 @@ main:
     url: /tags/
   - title: "tistory"
     url: https://hjp8888.tistory.com/
+  - title: "Naver Cafe"
+    url: https://cafe.naver.com/hjp8888
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
