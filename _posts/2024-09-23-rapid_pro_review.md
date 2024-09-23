@@ -42,7 +42,7 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
 <figure class="half">
   <a href="link"><img src="https://blog.kakaocdn.net/dn/lpgZ1/btsJJDzPsmZ/D3LxvKJvLGPV8rDiYvHgY0/img.jpg" alt="" height="333" margin="15px"></a>
   <a href="link"><img src="https://blog.kakaocdn.net/dn/dkSN0A/btsJITwpXCD/MFW2sKehVsHOiPGBeDHgM1/img.jpg" alt="" height="333" margin="15px"></a>
-  <figcaption>2개이미지.</figcaption>
+  <figcaption></figcaption>
 </figure>
 
  하지만 개인적으로 필기용으로는 래피드 프로가 우위에 있다고 생각하는데 위에서 말한 촉을 보호해주는 **더블 노크** 때문입니다. 하지만 더블 노크의 고질병인 유격이 걱정되실텐데 보시다시피 거의 틈이 없어서 **유격은 0**에 가깝습니다!!! 로트링의 로렛(널링) 가공도 똑같이 적용돼서 장시간 필기시 미끄러지지 않는것도 좋구요.  
@@ -50,9 +50,9 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
  비슷하게 펜텔의 그래프 기어 1000 같은 경우도 더블 노크 방식인데 유격이 미세하지만 느껴질 정도로 있어서 둘중 고민중이시라면 저는 **래피드 프로**를 추천드립니다~
 
 <figure class="half">
-  <a href="link"><img src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" height="200" margin="15px"></a>
-  <a href="link"><img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" alt="" height="200" margin="15px"></a>
-  <figcaption>2개이미지.</figcaption>
+  <a href="link"><img src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" height="150" margin="15px"></a>
+  <a href="link"><img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" alt="" height="150" margin="15px"></a>
+  <figcaption></figcaption>
 </figure>
 
  그리고 무게중심도 필기시 중요한 부분인데 거의 무게중심은 거의 중앙에 위치하고 있습니다.  
