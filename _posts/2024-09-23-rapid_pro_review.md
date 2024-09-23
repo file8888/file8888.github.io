@@ -40,8 +40,8 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
  현재 온라인 최저가는 **28,450**원으로 보통 3만원 전후로 구하실 수 있습니다. 전체적으로 로트링 600과 비슷한 모습이고 소재도 똑같아서 무게가 무거운 편에 속합니다. 하지만 로트링 600은 촉이 보호가 안되기 때문에 떨어트리면 촉이 바로 휘어버리는 문제가 있죠...ㅠㅠ 그래서 기존 로트링 샤프와 다르게 **더블 노크**를 적용하고 있는 것과 경도 표시부분이 없는 것이 가장 큰 차이점 입니다. 그래서 제도용으로는 불편한 감이 있죠...
 
 <figure class="half">
-  <a><img src="https://blog.kakaocdn.net/dn/lpgZ1/btsJJDzPsmZ/D3LxvKJvLGPV8rDiYvHgY0/img.jpg" alt="" height="333" margin="15px"></a>
-  <a><img src="https://blog.kakaocdn.net/dn/dkSN0A/btsJITwpXCD/MFW2sKehVsHOiPGBeDHgM1/img.jpg" alt="" height="333" margin="15px"></a>
+  <a><img src="https://blog.kakaocdn.net/dn/lpgZ1/btsJJDzPsmZ/D3LxvKJvLGPV8rDiYvHgY0/img.jpg" alt="" height="333px" margin="15px"></a>
+  <a><img src="https://blog.kakaocdn.net/dn/dkSN0A/btsJITwpXCD/MFW2sKehVsHOiPGBeDHgM1/img.jpg" alt="" height="333px" margin="15px"></a>
   <figcaption></figcaption>
 </figure>
 
@@ -50,8 +50,8 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
  비슷하게 펜텔의 그래프 기어 1000 같은 경우도 더블 노크 방식인데 유격이 미세하지만 느껴질 정도로 있어서 둘중 고민중이시라면 저는 **래피드 프로**를 추천드립니다~
 
 <figure class="half">
-  <a><img src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" height="150" margin="15px"></a>
-  <a><img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" alt="" height="150" margin="15px"></a>
+  <a><img src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" height="150px" margin="15px"></a>
+  <a><img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" alt="" height="150px" margin="15px"></a>
   <figcaption></figcaption>
 </figure>
 
