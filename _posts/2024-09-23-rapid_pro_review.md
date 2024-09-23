@@ -39,13 +39,15 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
 
  현재 온라인 최저가는 **28,450**원으로 보통 3만원 전후로 구하실 수 있습니다. 전체적으로 로트링 600과 비슷한 모습이고 소재도 똑같아서 무게가 무거운 편에 속합니다. 하지만 로트링 600은 촉이 보호가 안되기 때문에 떨어트리면 촉이 바로 휘어버리는 문제가 있죠...ㅠㅠ 그래서 기존 로트링 샤프와 다르게 **더블 노크**를 적용하고 있는 것과 경도 표시부분이 없는 것이 가장 큰 차이점 입니다. 그래서 제도용으로는 불편한 감이 있죠...
 
-<img title="" src="https://blog.kakaocdn.net/dn/lpgZ1/btsJJDzPsmZ/D3LxvKJvLGPV8rDiYvHgY0/img.jpg" alt="" height="333" margin="15px" data-align="inline"><img title="" src="https://blog.kakaocdn.net/dn/dkSN0A/btsJITwpXCD/MFW2sKehVsHOiPGBeDHgM1/img.jpg" alt="" height="333" data-align="inline">
+| <img title="" src="https://blog.kakaocdn.net/dn/lpgZ1/btsJJDzPsmZ/D3LxvKJvLGPV8rDiYvHgY0/img.jpg" alt="" height="333" margin="15px" data-align="inline"> | <img title="" src="https://blog.kakaocdn.net/dn/dkSN0A/btsJITwpXCD/MFW2sKehVsHOiPGBeDHgM1/img.jpg" alt="" height="333" data-align="inline"> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
  하지만 개인적으로 필기용으로는 래피드 프로가 우위에 있다고 생각하는데 위에서 말한 촉을 보호해주는 **더블 노크** 때문입니다. 하지만 더블 노크의 고질병인 유격이 걱정되실텐데 보시다시피 거의 틈이 없어서 **유격은 0**에 가깝습니다!!! 로트링의 로렛(널링) 가공도 똑같이 적용돼서 장시간 필기시 미끄러지지 않는것도 좋구요.  
 
  비슷하게 펜텔의 그래프 기어 1000 같은 경우도 더블 노크 방식인데 유격이 미세하지만 느껴질 정도로 있어서 둘중 고민중이시라면 저는 **래피드 프로**를 추천드립니다~
 
-<img title="" src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" height="200"><img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" title="" alt="" height="200">
+| <img title="" src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" height="200"> | <img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" title="" alt="" height="200"> |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 
  그리고 무게중심도 필기시 중요한 부분인데 거의 무게중심은 거의 중앙에 위치하고 있습니다.  
 
