@@ -42,7 +42,7 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
 <figure class="half">
   <a href="link"><img src="https://blog.kakaocdn.net/dn/lpgZ1/btsJJDzPsmZ/D3LxvKJvLGPV8rDiYvHgY0/img.jpg" alt="" height="333" margin="15px"></a>
   <a href="link"><img src="https://blog.kakaocdn.net/dn/dkSN0A/btsJITwpXCD/MFW2sKehVsHOiPGBeDHgM1/img.jpg" alt="" height="333" margin="15px"></a>
-  <figcaption></figcaption>
+  <figcaption>2개이미지.</figcaption>
 </figure>
 
  하지만 개인적으로 필기용으로는 래피드 프로가 우위에 있다고 생각하는데 위에서 말한 촉을 보호해주는 **더블 노크** 때문입니다. 하지만 더블 노크의 고질병인 유격이 걱정되실텐데 보시다시피 거의 틈이 없어서 **유격은 0**에 가깝습니다!!! 로트링의 로렛(널링) 가공도 똑같이 적용돼서 장시간 필기시 미끄러지지 않는것도 좋구요.  
@@ -52,7 +52,7 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
 <figure class="half">
   <a href="link"><img src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" height="200" margin="15px"></a>
   <a href="link"><img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" alt="" height="200" margin="15px"></a>
-  <figcaption></figcaption>
+  <figcaption>2개이미지.</figcaption>
 </figure>
 
  그리고 무게중심도 필기시 중요한 부분인데 거의 무게중심은 거의 중앙에 위치하고 있습니다.  
@@ -61,8 +61,12 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
 
 ![](https://blog.kakaocdn.net/dn/c4NXgU/btsJIjvCkBG/D1NSSCF1odWznzPUSPMn71/img.jpg)
 
+###### 래피드 프로 0.5 구조
+
  또 델가드만큼은 아니지만 안쪽에 스프링이 내장하고 있어서 수직으로 강하게 필압을 줄 경우 부러지지 않고 안쪽으로 심이 들어가게 됩니다~ 소소하지만 부러지는 경우가 줄어들더라구요.
 
 ![](https://blog.kakaocdn.net/dn/dV1ts0/btsJIgTbM2k/eNMTUT0Q2ccfYijjUksDLk/img.jpg)
+
+###### 펜텔 스매쉬 ( 길이 : 139mm ) 와 길이 비교
 
 **총평 :** 개인적으로 비슷한 가격대의 샤프중에서는 '파이롯트 S30'과 함께 가장 만족도가 높은 샤프로 '로트링 600'과 더불어 로트링 샤프중에서 **가성비**가 가장 좋음.
