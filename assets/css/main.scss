@@ -7,3 +7,22 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@media (min-width: 64em) {
+    .sidebar {
+        float:right;
+        width: calc(200px - 1em);
+        opacity: 0.75;
+        -webkit-transition: opacity 0.2s ease-in-out;
+        transition: opacity 0.2s ease-in-out
+    }
+
+    .sidebar:hover {
+        opacity: 1
+    }
+
+    .sidebar.sticky {
+        overflow-y: auto;
+        max-height: calc(100vh - 2em - 2em)
+    }
+}
