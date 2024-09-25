@@ -50,7 +50,7 @@ title: '로트링 래피드 프로(rapid pro) 0.5mm 후기'
  비슷한 펜텔의 그래프 기어 1000 같은 경우도 더블 노크 방식인데 유격이 미세하지만 느껴질 정도로 있어서 둘중 고민중이시라면 저는 **래피드 프로**를 추천드립니다~
 
 <img src="https://blog.kakaocdn.net/dn/b3JaVZ/btsJItLvEJP/4kdE5kS5Bd4QUmEyxLKkHk/img.jpg" alt="" width="450px">
-</br>
+<br/>
 <img src="https://blog.kakaocdn.net/dn/Qyc2x/btsJKk7cCwx/VNn46vnT23eycLk3IFRiHk/img.jpg" alt="" width="450px">
 
  그리고 무게중심도 필기시 중요한 부분인데 거의 무게중심은 거의 중앙에 위치하고 있습니다.  
