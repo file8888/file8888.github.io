@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-KR"
-title                    : "hjp8888"
+title                    : "file8888"
 title_separator          : "-"
 subtitle                 : 
 name                     : "Park Hyeongjun"
 description              : "jspw8888@gmail.com" #사용자 설명
 url                      : "https://hjp8888.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hjp8888/hjp8888.github.io"
+repository               : "file8888/file8888.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
