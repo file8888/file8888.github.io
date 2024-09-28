@@ -120,10 +120,10 @@ author:
   links:
     - label: "Profile"
       icon: "fa-solid fa-user"
-      url: "https://file8888.github.io/profile/"
+      url: "/profile/"
     - label: "Montly"
       icon: "fa-regular fa-calendar-days"
-      url: "https://file8888.github.io/month-archive/"
+      url: "/month-archive/"
     #- label: "GitHub"
      # icon: "fab fa-fw fa-github"
      # url: "https://github.com/file8888"
@@ -148,10 +148,10 @@ footer:
   links:
      - label: "Profile"
       icon: "fa-solid fa-user"
-      url: "https://file8888.github.io/profile/"
+      url: "/profile/"
     - label: "Montly"
       icon: "fa-regular fa-calendar-days"
-      url: "https://file8888.github.io/month-archive/"
+      url: "/month-archive/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
