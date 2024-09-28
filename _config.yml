@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-KR"
 title                    : "File88"
 title_separator          : "-"
-subtitle                 : 
+subtitle                 : "88 Data Archive" 
 name                     : "Park Hyeongjun"
 description              : "jspw8888@gmail.com" #사용자 설명
 url                      : "https://file8888.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "file8888/file8888.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "File88" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -118,24 +118,32 @@ author:
   location         : "Busan"
   email            : 
   links:
-    - label: "Email"
+     - label: "Profile"
+      icon: "fa-solid fa-user"
+      url: "https://file8888.github.io/profile/"
+      
+     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/file8888"
+      
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/_hjp8888?igsh=MXFqbGE2MjltYTAwYQ=="
+      
+    - label: "tistory"
+      icon: "fas fa-fw fa-link"
+      url: "https://hjp8888.tistory.com/"
+
 
 # Site Footer
 footer:
