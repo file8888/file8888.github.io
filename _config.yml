@@ -146,7 +146,7 @@ author:
 # Site Footer
 footer:
   links:
-     - label: "Profile"
+    - label: "Profile"
       icon: "fa-solid fa-user"
       url: "/profile/"
     - label: "Montly"
