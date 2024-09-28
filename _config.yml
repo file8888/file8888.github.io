@@ -118,7 +118,13 @@ author:
   location         : "Busan"
   email            : 
   links:
-     - label: "Profile"
+     
+    - label: "Tag"
+      icon: "fa-solid fa-tag"
+      url: "https://file8888.github.io/tags/"
+
+
+    - label: "Profile"
       icon: "fa-solid fa-user"
       url: "https://file8888.github.io/profile/"
       
