@@ -116,40 +116,32 @@ author:
   avatar           : "/assets/images/logo.png"
   bio              : "jspw8888@gmail.com" #사용자 설명
   location         : "Busan"
-  email            : 
+  # email            : 
   links:
-     
     - label: "Tag"
       icon: "fa-solid fa-tag"
       url: "https://file8888.github.io/tags/"
-
-
     - label: "Profile"
       icon: "fa-solid fa-user"
       url: "https://file8888.github.io/profile/"
-      
-     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/file8888"
-      
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/_hjp8888?igsh=MXFqbGE2MjltYTAwYQ=="
-      
     - label: "tistory"
       icon: "fas fa-fw fa-link"
       url: "https://hjp8888.tistory.com/"
-
+    #- label: "Email"
+      # icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    #- label: "Facebook"
+     # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/" 
 
 # Site Footer
 footer:
