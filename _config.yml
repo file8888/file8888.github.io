@@ -115,7 +115,7 @@ author:
   name             : "Park Hyeongjun"
   avatar           : "/assets/images/logo.png"
   bio              : "jspw8888@gmail.com" #사용자 설명
-  location         : "Busan"
+  location         : # "Busan"
   # email            : 
   links:
     - label: "Profile"
