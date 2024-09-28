@@ -118,15 +118,15 @@ author:
   location         : "Busan"
   # email            : 
   links:
-    - label: "Tag"
-      icon: "fa-solid fa-tag"
-      url: "https://file8888.github.io/tags/"
     - label: "Profile"
       icon: "fa-solid fa-user"
       url: "https://file8888.github.io/profile/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/file8888" {: target="_blank"}
+    - label: "Montly"
+      icon: "fa-regular fa-calendar-days"
+      url: "https://file8888.github.io/month-archive/"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+     # url: "https://github.com/file8888"
    # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
      # url: "https://www.instagram.com/_hjp8888?igsh=MXFqbGE2MjltYTAwYQ=="
