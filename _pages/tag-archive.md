@@ -1,7 +1,6 @@
-# tag-archive.md
 ---
 title: "Posts by Tag"
 permalink: /tags/
-layout: tags
+layout: tag
 author_profile: true
 ---
