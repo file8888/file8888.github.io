@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Park Hyeongjun"
-  avatar           : "/assets/images/logo.png"
+  avatar           : "https://cdn.jsdelivr.net/gh/file8888/file8888.github.io@master/assets/images/logo.png?raw=true"
   bio              : "jspw8888@gmail.com" #사용자 설명
   location         : # "Busan"
   # email            : 
