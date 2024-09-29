@@ -1,21 +1,51 @@
 ---
 layout: guestbook
 ---
+---
+---
 
-<h2 class="page__title a">Guestbook</h2><br>
+<!doctype html>
+{% include copyright.html %}
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached masthead.html %}
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
+    </div>
 
-
-<!--utterances comments-->
-<div class="col-lg-8 col-md-10 mx-auto">
-  <hr />
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
   
-  <script src="https://utteranc.es/client.js"
-    repo="file8888/file8888.github.io"
-    issue-term="pathname"
-    label="comments"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
-  </script>
+  <h2 class="page__title a">Guestbook</h2><br>
+  <div class="col-lg-8 col-md-10 mx-auto">
+    <hr />
   
-</div>
+    <script src="https://utteranc.es/client.js"
+      repo="file8888/file8888.github.io"
+      issue-term="pathname"
+      label="comments"
+      theme="github-light"
+      crossorigin="anonymous"
+      async>
+    </script>
+  
+  </div>
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
