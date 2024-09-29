@@ -13,6 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin2   : "air"
 
 # Site Settings
 locale                   : "en-KR"
@@ -358,3 +359,11 @@ defaults:
       comments: true
       share: true
       related: true
+
+# 마크다운 코드 블럭 줄 숫자
+markdown: kramdown
+kramdown:
+  highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true

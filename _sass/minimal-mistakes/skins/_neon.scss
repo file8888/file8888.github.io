@@ -25,6 +25,10 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
   color: inherit;
 }
 
+.page__footer {
+  color: #acacac !important; // override
+}
+
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
