@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gemspec
+gemspecs
 
 gem 'jekyll-admin', group: :jekyll_plugins
 
