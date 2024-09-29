@@ -359,6 +359,11 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "counts"
+      toc: true
+      toc_sticky: ture
+  
 
 # 마크다운 코드 블럭 줄 숫자
 markdown: kramdown

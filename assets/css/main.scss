@@ -9,3 +9,8 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css); 
+
+::selection {
+	color: #ffffff;
+	background: #3390ff;
+}
