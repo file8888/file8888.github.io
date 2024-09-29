@@ -1,6 +1,6 @@
 ---
 title: "Guestbook"
 permalink: /guestbook/
-layout: guestbook
+layout: single
 author_profile: true
 ---
