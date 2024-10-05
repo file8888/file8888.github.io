@@ -361,7 +361,6 @@ defaults:
       related: true
       sidebar:
         nav: "counts"
-      toc: true
   
 
 # 마크다운 코드 블럭 줄 숫자
