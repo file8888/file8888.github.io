@@ -31,6 +31,9 @@ body {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
           flex-direction: column;
+  @media media-type and (media-feature-rule) {
+    margin-left: 6px;
+}
 }
 
 .initial-content,
