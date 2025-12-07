@@ -4,7 +4,7 @@ require 'json'
 
 module Jekyll
     module Figma
-        TOKEN = 'xxxx-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
+        TOKEN = 'figd_iPzMeOguBgTOUnu3q3BDTVwEvDk9-7dOSkm3ujeO'
         BASE_URL = 'https://api.figma.com/v1/images/'
 
         class FigmaTag < Liquid::Tag
